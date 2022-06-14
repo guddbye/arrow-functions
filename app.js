@@ -199,8 +199,10 @@ joe.scopeArrow();
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//
+//  The keyword 'this' means joe.scope is being invoked. Refering to name and hometown.
+
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//
+// 'this' when joe.scopeArrow() is invoked refering to location, window, and document name.
+
 // 3. Explain why "this" is different when an arrow function is used.
-//
+// 'this' is different because it takes the scope of the adjacent arrow functions. 
